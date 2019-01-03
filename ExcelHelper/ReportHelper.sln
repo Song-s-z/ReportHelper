@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportHelper", "ReportHelper.csproj", "{89662096-4D5C-4146-9A51-389F873C9C49}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "baoxian", "..\baoxian\baoxian.vdproj", "{B479B540-B17A-4559-9B48-80270DC8DF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89662096-4D5C-4146-9A51-389F873C9C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89662096-4D5C-4146-9A51-389F873C9C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89662096-4D5C-4146-9A51-389F873C9C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89662096-4D5C-4146-9A51-389F873C9C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B479B540-B17A-4559-9B48-80270DC8DF69}.Debug|Any CPU.ActiveCfg = Debug
+		{B479B540-B17A-4559-9B48-80270DC8DF69}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEF31A6B-FD13-47E4-8F23-379F02792FA5}
+	EndGlobalSection
+EndGlobal
